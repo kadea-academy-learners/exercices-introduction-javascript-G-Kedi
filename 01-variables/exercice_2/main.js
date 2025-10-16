@@ -1,3 +1,2 @@
-//écrire votre code ici
-let academyName = "Kadea";
-console.log(`Bienvenue à ${academyName}`);
+let nom = "Kadea";
+console.log(`Bienvenue à ${nom}`);

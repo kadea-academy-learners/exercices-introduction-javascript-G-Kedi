@@ -4,4 +4,6 @@ let age = 30;
 let nom = "Kedi";
 let estConnecte = true;
 let valeurNulle = null;
-let valeurIndefinie;
+let inconnu;
+
+module.exports = { age, nom, estConnecte, valeurNulle, inconnu };
